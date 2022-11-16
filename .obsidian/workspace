@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "b81a67dfdc42dbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0dc59735722824",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "중등부 예배전 모임 (22.09.25, 일).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73299339e84d116d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "291e3927dd7b66c2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "6c5ad1951df5d503",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c50785130d510f5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "cfca33133c15c70d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "c711e530a55e902a",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5e549d5a699f7f6c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7453bbbac24961a9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "중등부 예배전 모임 (22.09.25, 일).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8c54b4430fbccd08",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "중등부 예배전 모임 (22.09.25, 일).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19fa52024f9fa6ef",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "중등부 예배전 모임 (22.09.25, 일).md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5e0dc59735722824",
+  "lastOpenFiles": [
+    "M&A/인수 시 가능한 Option.md",
+    "Terminology.md",
+    "Day Planners/Day Planner-Routine.md",
+    "Productivity/핵심과 맥락의 균형.md",
+    "00. Scrap/Bookmarklet.md",
+    "2022-07-15.md",
+    "M&A/Untitled.md"
+  ]
+}

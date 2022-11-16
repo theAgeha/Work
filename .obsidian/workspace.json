@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b81a67dfdc42dbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd40de84e34130d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c710c5900b5ce5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0789be379438156",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded5e8a37dc32d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd339960423cb36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fed9a71fd21b761",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca0be36eb622fef5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "602ee8c5c27c391b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5336ebf2743377a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f5a180e12906f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0a09ecd474a4eb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Kanban Board/Note Status.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbe5ad181b80ed9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. Kanban Board/Note Status.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9b2f3d8ca9793ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "697dd51e0970a566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Kanban Board/Note Status.md"
+              }
+            }
+          },
+          {
+            "id": "62e4b003966b22fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "active": "53c710c5900b5ce5",
+  "lastOpenFiles": [
+    "00. INBOX/확인 할 것.md",
+    "00. INBOX/Obsidian 사용 방법.md",
+    "Template/Daily Planner.md",
+    "01. Kanban Board/Note Status.md",
+    "50. MEETING/부문 대표님 질의사항 답변.md",
+    "10. Daily Planner/DP-2022-09-16-FRI(3).md",
+    "중등부 예배전 모임 (22.09.25, 일).md",
+    "20. Reference/민자사업의 종류.md",
+    "10. Daily Planner/DP-2022-09-14-MON.md",
+    "10. Daily Planner/DP-2022-09-15-THU.md"
+  ]
+}

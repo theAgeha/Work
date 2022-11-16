@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "b81a67dfdc42dbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0dc59735722824",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Terminology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d2b6cbf12482e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7c9b144c0aecda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efea87005ea1246e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "929a762e563e2a95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0028e6451e71a95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82c923792484ffd2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "841dc905f6460fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "85119d18dc3545d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e06e6c9046b20e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Terminology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31b21b43e60a4886",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Terminology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2645296ac312c680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87bf1fd0c1dd1348",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Terminology.md"
+              }
+            }
+          },
+          {
+            "id": "a75d6fb561e163c3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5e0dc59735722824",
+  "lastOpenFiles": [
+    "Productivity/핵심과 맥락의 균형.md",
+    "M&A/인수 시 가능한 Option.md",
+    "Terminology.md",
+    "Day Planners/Day Planner-Routine.md",
+    "00. Scrap/Bookmarklet.md",
+    "2022-07-15.md",
+    "M&A/Untitled.md"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "4f04169b301e03dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc71e38c83a6313",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Plan/DP-2022-09-14-MON.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "5610275f1bae4045",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Plan/DP-2022-09-14-MON.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82e594f9af8912ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93ac68904f21eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1356316c1045cbd1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac7ef50bbd9068bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3cfcdb2ebc5fa73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c56f374091313c8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7b1ee425950d816",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0f241338037104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd15933f3876105d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Plan/DP-2022-09-14-MON.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3e5de78c962dc4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Plan/DP-2022-09-14-MON.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b36f0e73954193d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f49bd0ec7d3ed0fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Plan/DP-2022-09-14-MON.md"
+              }
+            }
+          },
+          {
+            "id": "2ed6ead5849e3750",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5610275f1bae4045",
+  "lastOpenFiles": []
+}
