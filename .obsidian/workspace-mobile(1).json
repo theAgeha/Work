@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "b81a67dfdc42dbc6",
+    "id": "652cc597bcb5c13d",
     "type": "split",
     "children": [
       {
-        "id": "789fb3df4dd9ad5f",
+        "id": "c35107d87d49b38a",
         "type": "tabs",
         "children": [
           {
-            "id": "5e0dc59735722824",
+            "id": "a727e7cb06ab9985",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73299339e84d116d",
+    "id": "f24c5138293db71c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "291e3927dd7b66c2",
+        "id": "f59dfbd79e611a8a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "6c5ad1951df5d503",
+        "id": "0d79852e9907edce",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "6c50785130d510f5",
+        "id": "3d61f3cac486e858",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,18 +61,10 @@
         }
       },
       {
-        "id": "cfca33133c15c70d",
+        "id": "cece2789337b88cc",
         "type": "leaf",
         "state": {
           "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "c711e530a55e902a",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
           "state": {}
         }
       }
@@ -80,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5e549d5a699f7f6c",
+    "id": "27728510d1cbb797",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7453bbbac24961a9",
+        "id": "e25dfc1c7d154479",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -100,7 +92,7 @@
         }
       },
       {
-        "id": "8c54b4430fbccd08",
+        "id": "86bd0f4b47b062b3",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -111,7 +103,7 @@
         }
       },
       {
-        "id": "19fa52024f9fa6ef",
+        "id": "ee6b47007a3e1b86",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -121,18 +113,6 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "291e3927dd7b66c2",
-  "lastOpenFiles": [
-    "중등부 예배전 모임 (22.09.25, 일).md",
-    "M&A/인수 시 가능한 Option.md",
-    "Terminology.md",
-    "Day Planners/Day Planner-Routine.md",
-    "Productivity/핵심과 맥락의 균형.md",
-    "00. Scrap/Bookmarklet.md",
-    "2022-07-15.md",
-    "M&A/Untitled.md"
-  ]
+  "active": "a727e7cb06ab9985",
+  "lastOpenFiles": []
 }

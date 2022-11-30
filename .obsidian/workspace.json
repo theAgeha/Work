@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd40de84e34130d",
+        "id": "2d1d02ce9b097a86",
         "type": "tabs",
         "children": [
           {
-            "id": "53c710c5900b5ce5",
+            "id": "3d294dc8bf2e7715",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10. DAILY PLANNER/2022-12-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
       {
         "id": "a3f5a180e12906f1",
         "type": "tabs",
+        "dimension": 35.19230769230769,
         "children": [
           {
             "id": "c0a09ecd474a4eb5",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban Board/Note Status.md",
+                "file": "10. DAILY PLANNER/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban Board/Note Status.md",
+                "file": "10. DAILY PLANNER/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban Board/Note Status.md"
+                "file": "10. DAILY PLANNER/2022-12-01.md"
               }
             }
           },
@@ -143,22 +148,37 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "b168a9fcfa8746ee",
+        "type": "tabs",
+        "dimension": 64.8076923076923,
+        "children": [
+          {
+            "id": "b5731c8fbea8f77b",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 391.5
   },
-  "active": "53c710c5900b5ce5",
+  "active": "c9b2f3d8ca9793ea",
   "lastOpenFiles": [
-    "00. INBOX/확인 할 것.md",
-    "00. INBOX/Obsidian 사용 방법.md",
-    "Template/Daily Planner.md",
-    "01. Kanban Board/Note Status.md",
-    "50. MEETING/부문 대표님 질의사항 답변.md",
-    "10. Daily Planner/DP-2022-09-16-FRI(3).md",
-    "중등부 예배전 모임 (22.09.25, 일).md",
-    "20. Reference/민자사업의 종류.md",
-    "10. Daily Planner/DP-2022-09-14-MON.md",
-    "10. Daily Planner/DP-2022-09-15-THU.md"
+    "10. DAILY PLANNER/2022-11/2022-11-30.md",
+    "Template/Template for Daily Planner.md",
+    "Template/Template for Meeting Note.md",
+    "50. MEETING/하나금융투자 Meeting Agenda.md",
+    "00. INBOX/Obsidian 확인 할 것.md",
+    "대산임해 추가사업 관련 법적근거 정리.md",
+    "10. DAILY PLANNER/2022-12-01.md",
+    "10. DAILY PLANNER/2022-11/2022-11-17.md",
+    "10. DAILY PLANNER/2022-11/2022-11-29.md",
+    "하나금융투자 Meeting Agenda.md"
   ]
 }

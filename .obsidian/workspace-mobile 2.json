@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "b81a67dfdc42dbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d53a1c3e62bdaf71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "272946710f692e0c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "01. Kanban Board/Note Status.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5686f991ac60f7ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50. MEETING/하나금융투자 Meeting Agenda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73299339e84d116d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "291e3927dd7b66c2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c5ad1951df5d503",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c50785130d510f5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "cfca33133c15c70d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "c711e530a55e902a",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5e549d5a699f7f6c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7453bbbac24961a9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "50. MEETING/하나금융투자 Meeting Agenda.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8c54b4430fbccd08",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "50. MEETING/하나금융투자 Meeting Agenda.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19fa52024f9fa6ef",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "50. MEETING/하나금융투자 Meeting Agenda.md"
+          }
+        }
+      },
+      {
+        "id": "22c9160c114842d9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5686f991ac60f7ae",
+  "lastOpenFiles": [
+    "01. Kanban Board/Note Status.md",
+    "하나금융투자 Meeting Agenda.md",
+    "10. DAILY PLANNER/2022-11-21.md",
+    "50. MEETING/환경 국내 신사업 추진 전략 Workshop.md",
+    "00. INBOX/Obsidian 확인 할 것.md",
+    "00. INBOX/Obsidian 사용 방법.md",
+    "10. DAILY PLANNER/2022-11-18.md",
+    "Template/Template for Meeting Note.md",
+    "10. DAILY PLANNER/2022-11-17.md",
+    "Template/Template for Daily Planner.md"
+  ]
+}

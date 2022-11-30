@@ -1,0 +1,12 @@
+{
+  "textFontFamily": "Spoqa Han Sans Neo",
+  "interfaceFontFamily": "Spoqa Han Sans Neo,JetBrains Mono",
+  "accentColor": "#529d5b",
+  "theme": "obsidian",
+  "cssTheme": "Typewriter",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": true
+}

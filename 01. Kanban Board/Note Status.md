@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Entry
 
-- [ ] [[확인 할 것]]
+- [ ] [[Obsidian 확인 할 것]]
 
 
 ## Writing
 
-- [ ] [[Obsidian 사용 방법]]
+- [ ] [[하나금융투자 Meeting Agenda]]
 
 
 ## Done
@@ -19,7 +19,11 @@ kanban-plugin: basic
 **Complete**
 
 
+***
 
+## Archive
+
+- [x] [[Obsidian 사용 방법]]
 
 %% kanban:settings
 ```
