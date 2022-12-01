@@ -11,7 +11,6 @@ kanban-plugin: basic
 
 ## Writing
 
-- [ ] [[하나금융투자 Meeting Agenda]]
 
 
 ## Done
@@ -23,6 +22,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] [[하나금융투자 Meeting Agenda]]
 - [x] [[Obsidian 사용 방법]]
 
 %% kanban:settings

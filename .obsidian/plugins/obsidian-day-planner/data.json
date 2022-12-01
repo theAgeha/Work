@@ -20,9 +20,9 @@
       "date": "Thu Dec 01 2022"
     }
   ],
-  "completePastItems": true,
-  "circularProgress": true,
-  "nowAndNextInStatusBar": true,
+  "completePastItems": false,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
   "showTaskNotification": false,
   "timelineZoomLevel": 1
 }
