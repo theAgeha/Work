@@ -1,0 +1,12 @@
+
+- [x] Dynalist에서 Import 방법
+- [x] Daily Note 생성방법
+- [x] Outline 적용 테스트
+- [x] Calendar 적용 테스트
+- [x] 미팅 노트 템플릿 만들기 
+- [x] Git hub 연결하기
+- [x] 아웃라이너 확인
+- [x] 독서노트만들기
+- [ ] Dataview 사용법
+- [ ] 제텔카스텐 방식 활용법
+- [ ] 
