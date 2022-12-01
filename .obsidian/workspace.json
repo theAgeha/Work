@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "00. INBOX/Obsidian 확인 할 것.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "00. INBOX/Obsidian 확인 할 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "00. INBOX/Obsidian 확인 할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template for Book Note.md"
+                "file": "00. INBOX/Obsidian 확인 할 것.md"
               }
             }
           },
@@ -192,14 +192,14 @@
   "active": "22a49c506eaaf15e",
   "lastOpenFiles": [
     "00. INBOX/넛지.md",
-    "00. INBOX/넛지 파이널 에디션：복잡한 세상에서 똑똑한 선택을 이끄는 힘.md",
+    "00. INBOX/Obsidian 확인 할 것.md",
     "Template/Template for Book Note.md",
+    "00. INBOX/넛지 파이널 에디션：복잡한 세상에서 똑똑한 선택을 이끄는 힘.md",
     "00. INBOX/아들의 뇌 딸로 태어난 엄마들을 위한 아들 사용 설명서.md",
     "Template/Template for Meeting Note.md",
     "10. DAILY PLANNER/2022-11/2022-11-29.md",
     "대산임해 추가사업 관련 법적근거 정리.md",
     "10. DAILY PLANNER/2022-12-01.md",
-    "Template/Template for Daily Planner.md",
-    "백범일지.md"
+    "Template/Template for Daily Planner.md"
   ]
 }
