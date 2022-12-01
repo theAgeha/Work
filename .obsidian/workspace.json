@@ -13,46 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. INBOX/Obsidian 확인 할 것.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c3df8c62063e40",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6b583f16dd5a07d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a8d565f32640079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "file": "10. DAILY PLANNER/2022-12-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "file": "10. DAILY PLANNER/2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "file": "10. DAILY PLANNER/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md"
+                "file": "10. DAILY PLANNER/2022-12-01.md"
               }
             }
           },
@@ -201,14 +168,14 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "4a8d565f32640079",
+  "active": "3d294dc8bf2e7715",
   "lastOpenFiles": [
+    "00. INBOX/Obsidian 확인 할 것.md",
+    "Clippings/URL로 기사 스크랩하기.md",
     "Clippings/Obsidian Clipper.md",
     "Clippings/옵시디언 자주 묻는 질문(FAQ) - 분석맨의 '두 번째 뇌'.md",
     "Untitled.md",
-    "Clippings/URL로 기사 스크랩하기.md",
     "Web Clipping code.md",
-    "00. INBOX/Obsidian 확인 할 것.md",
     "10. DAILY PLANNER/2022-12-01.md",
     "Template/Template for Daily Planner.md",
     "00. INBOX/Obsidian 사용 방법.md",
