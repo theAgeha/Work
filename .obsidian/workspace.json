@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9479e73f31766fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/The Scarlet Plague the Complete Novel  Bookclub／Student Edition Includes the Complete Unabridged Book and a Template for Notes Reference and Stud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md",
+                "file": "Template/The Scarlet Plague the Complete Novel  Bookclub／Student Edition Includes the Complete Unabridged Book and a Template for Notes Reference and Stud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md",
+                "file": "Template/The Scarlet Plague the Complete Novel  Bookclub／Student Edition Includes the Complete Unabridged Book and a Template for Notes Reference and Stud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md"
+                "file": "Template/The Scarlet Plague the Complete Novel  Bookclub／Student Edition Includes the Complete Unabridged Book and a Template for Notes Reference and Stud.md"
               }
             }
           },
@@ -168,15 +181,15 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "3d294dc8bf2e7715",
+  "active": "9479e73f31766fea",
   "lastOpenFiles": [
-    "00. INBOX/Obsidian 확인 할 것.md",
     "10. DAILY PLANNER/2022-12-01.md",
+    "백범일지.md",
+    "00. INBOX/Obsidian 확인 할 것.md",
     "Clippings/URL로 기사 스크랩하기.md",
     "Clippings/[디지털 노마드] 티스토리 블로그 시작하기.md",
     "Clippings/Obsidian Clipper.md",
     "Clippings/옵시디언 자주 묻는 질문(FAQ) - 분석맨의 '두 번째 뇌'.md",
-    "Untitled.md",
     "Web Clipping code.md",
     "Template/Template for Daily Planner.md",
     "00. INBOX/Obsidian 사용 방법.md"

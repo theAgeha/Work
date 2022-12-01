@@ -8,5 +8,6 @@
   "templater-obsidian",
   "obsidian-git",
   "editing-toolbar",
-  "extract-url"
+  "extract-url",
+  "kr-book-info-plugin"
 ]
