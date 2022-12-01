@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Typewriter",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "textFontFamily": "Spoqa Han Sans Neo",
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Spoqa Han Sans Neo"
 }

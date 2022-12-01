@@ -1,6 +1,6 @@
 ---
 created: 2022-12-01 13:21
-tag: Reading 국내도서 가정살림 자녀교육 좋은부모되기 자녀교육일반
+tag: 
 title: 아들의 뇌：딸로 태어난 엄마들을 위한 아들 사용 설명서
 author: 곽윤정
 category: 국내도서
@@ -22,6 +22,8 @@ book_note: ❌
 
 
 ### Highlight
-
+- 
 
 ### To-do
+- [ ] Action 1
+- [ ] Action 2

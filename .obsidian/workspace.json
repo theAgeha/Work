@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "10. DAILY PLANNER/2022-11/2022-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "10. DAILY PLANNER/2022-11/2022-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "10. DAILY PLANNER/2022-11/2022-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template for Book Note.md"
+                "file": "10. DAILY PLANNER/2022-11/2022-11-29.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "3d294dc8bf2e7715",
   "lastOpenFiles": [
-    "Template/Template for Daily Planner.md",
-    "Template/Template for Meeting Note.md",
-    "10. DAILY PLANNER/2022-12-01.md",
     "Template/Template for Book Note.md",
+    "대산임해 추가사업 관련 법적근거 정리.md",
+    "10. DAILY PLANNER/2022-12-01.md",
+    "Template/Template for Meeting Note.md",
+    "Template/Template for Daily Planner.md",
     "백범일지.md",
     "00. INBOX/Obsidian 확인 할 것.md",
     "Clippings/URL로 기사 스크랩하기.md",
     "Clippings/[디지털 노마드] 티스토리 블로그 시작하기.md",
-    "Clippings/Obsidian Clipper.md",
-    "Clippings/옵시디언 자주 묻는 질문(FAQ) - 분석맨의 '두 번째 뇌'.md"
+    "Clippings/Obsidian Clipper.md"
   ]
 }
