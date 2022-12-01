@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md",
+                "file": "00. INBOX/Obsidian 확인 할 것.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45c3df8c62063e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Obsidian Clipper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b583f16dd5a07d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8d565f32640079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-01.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -168,17 +205,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "3d294dc8bf2e7715",
+  "active": "4a8d565f32640079",
   "lastOpenFiles": [
+    "Clippings/URL로 기사 스크랩하기.md",
+    "Clippings/Obsidian Clipper.md",
+    "Web Clipping code.md",
     "00. INBOX/Obsidian 확인 할 것.md",
     "10. DAILY PLANNER/2022-12-01.md",
+    "Template/Template for Daily Planner.md",
     "00. INBOX/Obsidian 사용 방법.md",
     "50. MEETING/하나금융투자 Meeting Agenda.md",
     "01. Kanban Board/Note Status.md",
-    "10. DAILY PLANNER/2022-11/2022-11-30.md",
-    "Template/Template for Daily Planner.md",
-    "Template/Template for Meeting Note.md",
-    "대산임해 추가사업 관련 법적근거 정리.md",
-    "10. DAILY PLANNER/2022-11/2022-11-17.md"
+    "10. DAILY PLANNER/2022-11/2022-11-30.md"
   ]
 }
