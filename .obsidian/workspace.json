@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "file": "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2373aff7b9dd8373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30. Study/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "file": "30. Study/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md",
+                "file": "30. Study/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/URL로 기사 스크랩하기.md"
+                "file": "30. Study/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md"
               }
             }
           },
@@ -181,17 +193,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "85161faf20bae900",
+  "active": "2373aff7b9dd8373",
   "lastOpenFiles": [
-    "01. Kanban Board/Note Status.md",
-    "00. INBOX/Obsidian 확인 할 것.md",
-    "00. INBOX/넛지.md",
+    "50. MEETING/221122-하나금융투자 Meeting Agenda.md",
+    "Template/Template for Daily Planner.md",
     "Template/Template for Book Note.md",
-    "00. INBOX/넛지 파이널 에디션：복잡한 세상에서 똑똑한 선택을 이끄는 힘.md",
-    "00. INBOX/아들의 뇌 딸로 태어난 엄마들을 위한 아들 사용 설명서.md",
+    "Clippings/URL로 기사 스크랩하기.md",
+    "01. Kanban Board/Note Status.md",
     "Template/Template for Meeting Note.md",
-    "10. DAILY PLANNER/2022-11/2022-11-29.md",
-    "대산임해 추가사업 관련 법적근거 정리.md",
-    "10. DAILY PLANNER/2022-12-01.md"
+    "30. Study/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
+    "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
+    "10. DAILY PLANNER/2022-12-01.md",
+    "00. INBOX/Obsidian 확인 할 것.md"
   ]
 }

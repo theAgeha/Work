@@ -22,7 +22,7 @@ kanban-plugin: basic
 
 ## Archive
 
-- [x] [[하나금융투자 Meeting Agenda]]
+- [x] [[221122-하나금융투자 Meeting Agenda]]
 - [x] [[Obsidian 사용 방법]]
 
 %% kanban:settings
