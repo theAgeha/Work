@@ -23,12 +23,8 @@
             "id": "45c3df8c62063e40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Obsidian Clipper.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -49,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Clippings/URL로 기사 스크랩하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Clippings/URL로 기사 스크랩하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Clippings/URL로 기사 스크랩하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Clippings/URL로 기사 스크랩하기.md"
               }
             }
           },
@@ -207,15 +203,15 @@
   },
   "active": "4a8d565f32640079",
   "lastOpenFiles": [
-    "Clippings/URL로 기사 스크랩하기.md",
     "Clippings/Obsidian Clipper.md",
+    "Clippings/옵시디언 자주 묻는 질문(FAQ) - 분석맨의 '두 번째 뇌'.md",
+    "Untitled.md",
+    "Clippings/URL로 기사 스크랩하기.md",
     "Web Clipping code.md",
     "00. INBOX/Obsidian 확인 할 것.md",
     "10. DAILY PLANNER/2022-12-01.md",
     "Template/Template for Daily Planner.md",
     "00. INBOX/Obsidian 사용 방법.md",
-    "50. MEETING/하나금융투자 Meeting Agenda.md",
-    "01. Kanban Board/Note Status.md",
-    "10. DAILY PLANNER/2022-11/2022-11-30.md"
+    "50. MEETING/하나금융투자 Meeting Agenda.md"
   ]
 }
