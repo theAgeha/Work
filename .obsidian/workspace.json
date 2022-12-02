@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
+                "file": "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "d16872154cfc272a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md"
+              }
             }
           },
           {
@@ -172,9 +180,9 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "d16872154cfc272a",
+  "active": "bcd339960423cb36",
   "lastOpenFiles": [
-    "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
+    "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
     "conflict-files-obsidian-git.md",
     "01. Kanban Board/Note Status.md",
     "00. INBOX/Obsidian 확인 할 것.md",
