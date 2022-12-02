@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Typewriter",
   "showViewHeader": true,
-  "textFontFamily": "Spoqa Han Sans Neo",
+  "textFontFamily": "Spoqa Han Sans Neo,Helvetica",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "Spoqa Han Sans Neo"
+  "interfaceFontFamily": "Spoqa Han Sans Neo,Helvetica"
 }
