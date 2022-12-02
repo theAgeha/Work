@@ -6,10 +6,10 @@
   "obsidian-outliner",
   "obsidian-kanban",
   "templater-obsidian",
-  "obsidian-git",
   "editing-toolbar",
   "extract-url",
   "kr-book-info-plugin",
   "obsidian-sortable",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "obsidian-git"
 ]
