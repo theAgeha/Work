@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. INBOX/Obsidian 확인 할 것.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       {
         "id": "a3f5a180e12906f1",
         "type": "tabs",
-        "dimension": 39.179487179487175,
+        "dimension": 39.17948717948718,
         "children": [
           {
             "id": "c0a09ecd474a4eb5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. INBOX/Obsidian 확인 할 것.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. INBOX/Obsidian 확인 할 것.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. INBOX/Obsidian 확인 할 것.md"
+                "file": "10. DAILY PLANNER/2022-12-02.md"
               }
             }
           },
@@ -151,7 +151,7 @@
       {
         "id": "b168a9fcfa8746ee",
         "type": "tabs",
-        "dimension": 60.82051282051282,
+        "dimension": 60.820512820512825,
         "children": [
           {
             "id": "b5731c8fbea8f77b",
@@ -170,12 +170,12 @@
   "active": "2373aff7b9dd8373",
   "lastOpenFiles": [
     "30. Study/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
+    "00. INBOX/Obsidian 확인 할 것.md",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
     "10. DAILY PLANNER/2022-12-02.md",
     "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
     "10. DAILY PLANNER/2022-12-01.md",
     "50. MEETING/221122-하나금융투자 Meeting Agenda.md",
-    "00. INBOX/Obsidian 확인 할 것.md",
     "01. Kanban Board/Note Status.md",
     "00. INBOX/Resized_Screenshot_20221103-114137_KakaoMap.jpg.md",
     "대산임해 추가사업 관련 법적근거 정리.md"
