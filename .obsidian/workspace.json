@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d16872154cfc272a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +172,12 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "bcd339960423cb36",
+  "active": "d16872154cfc272a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
     "01. Kanban Board/Note Status.md",
     "00. INBOX/Obsidian 확인 할 것.md",
-    "40.  RESARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
     "10. DAILY PLANNER/2022-12-02.md",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
     "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
