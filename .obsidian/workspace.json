@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d170cfcfaeb3fe96",
+            "id": "f0a1350226eed72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "Template/Template for Daily Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "Template/Template for Daily Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "Template/Template for Daily Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template for Book Note.md"
+                "file": "Template/Template for Daily Planner.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "bcd339960423cb36",
+  "active": "f0a1350226eed72e",
   "lastOpenFiles": [
+    "Template/Template for Book Note.md",
+    "conflict-files-obsidian-git.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
-    "Attachment/사모펀드 제도 개편 전후 비교.jpg",
+    "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
+    "01. Kanban Board/Note Status.md",
+    "00. INBOX/Obsidian 확인 할 것.md",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
-    "10. DAILY PLANNER/2022-12-01.md",
-    "60. PROJECTS/부문 대표님 질의사항 답변.md",
-    "60. PROJECTS/부문대표님 질의사항.md",
-    "Template/Template for Daily Planner.md",
-    "Template/Template for Meeting Note.md",
-    "00. INBOX/Obsidian 확인 할 것.md"
+    "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
+    "10. DAILY PLANNER/2022-12-01.md"
   ]
 }
