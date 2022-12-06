@@ -3,5 +3,9 @@
   "newFileFolderPath": "00. INBOX",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "spellcheck": true,
+  "autoPairBrackets": true
 }

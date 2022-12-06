@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md"
+                "file": "10. DAILY PLANNER/2022-12-02.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "d170cfcfaeb3fe96",
   "lastOpenFiles": [
+    "10. DAILY PLANNER/2022-12-05.md",
+    "10. DAILY PLANNER/2022-12-02.md",
+    "Attachment/사모펀드 제도 개편 전후 비교.jpg",
+    "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
+    "10. DAILY PLANNER/2022-12-01.md",
     "60. PROJECTS/부문 대표님 질의사항 답변.md",
     "60. PROJECTS/부문대표님 질의사항.md",
-    "10. DAILY PLANNER/2022-12-02.md",
-    "10. DAILY PLANNER/2022-12-05.md",
-    "10. DAILY PLANNER/2022-12-01.md",
     "Template/Template for Daily Planner.md",
     "Template/Template for Meeting Note.md",
-    "00. INBOX/Obsidian 확인 할 것.md",
-    "Clippings/URL로 기사 스크랩하기.md",
-    "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md"
+    "00. INBOX/Obsidian 확인 할 것.md"
   ]
 }
