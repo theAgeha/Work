@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Minimal",
   "showViewHeader": true,
   "textFontFamily": "Spoqa Han Sans Neo,Helvetica",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "Spoqa Han Sans Neo,Helvetica"
+  "interfaceFontFamily": "Spoqa Han Sans Neo,Arial,Helvetica",
+  "theme": "moonstone"
 }
