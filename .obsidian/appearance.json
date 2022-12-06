@@ -1,8 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Minimal",
   "showViewHeader": true,
-  "textFontFamily": "Spoqa Han Sans Neo,Helvetica",
+  "textFontFamily": "Helvetica,Spoqa Han Sans Neo",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "Spoqa Han Sans Neo,Helvetica"
+  "interfaceFontFamily": "Spoqa Han Sans Neo,Helvetica",
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "baseFontSize": 16
 }

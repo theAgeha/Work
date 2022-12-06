@@ -2,22 +2,22 @@
 status: 🟧 예정, 🟦 진행중, 🟨 연기, 🟩 완료
 
 ---
-### Before Reading
+## Before Reading
 
 
 
 ---
-### After Reading
+## After Reading
 
 
 ---
-### Highlight
+## Highlight
 - 
 
 ---
-### To-do
+## To-do
 - [ ] Action 1
 - [ ] Action 2
 
 ---
-### TOC
+## TOC
