@@ -4,8 +4,8 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachment",
   "showInlineTitle": true,
-  "showFrontmatter": true,
-  "foldHeading": true,
+  "showFrontmatter": false,
+  "foldHeading": false,
   "spellcheck": true,
   "autoPairBrackets": true
 }
