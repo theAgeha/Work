@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d170cfcfaeb3fe96",
+            "id": "7c945ad27b53c153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template for Daily Planner.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template for Daily Planner.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template for Daily Planner.md",
+                "file": "10. DAILY PLANNER/2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template for Daily Planner.md"
+                "file": "10. DAILY PLANNER/2022-12-02.md"
               }
             }
           },
@@ -175,17 +175,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "d170cfcfaeb3fe96",
+  "active": "7c945ad27b53c153",
   "lastOpenFiles": [
-    "10. DAILY PLANNER/2022-12-06.md",
     "10. DAILY PLANNER/2022-12-01.md",
-    "Template/Template for Book Note.md",
-    "Template/Template for Daily Planner.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
+    "10. DAILY PLANNER/2022-12-06.md",
+    "Template/Template for Daily Planner.md",
+    "conflict-files-obsidian-git.md",
+    "Template/Template for Book Note.md",
     "Attachment/사모펀드 제도 개편 전후 비교.jpg",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
-    "60. PROJECTS/부문 대표님 질의사항 답변.md",
-    "60. PROJECTS/부문대표님 질의사항.md"
+    "60. PROJECTS/부문 대표님 질의사항 답변.md"
   ]
 }
