@@ -5,7 +5,7 @@
   "textFontFamily": "Helvetica,Spoqa Han Sans Neo",
   "monospaceFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "Spoqa Han Sans Neo,Helvetica",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "nativeMenus": false,
   "baseFontSize": 16
 }
