@@ -11,9 +11,11 @@
             "id": "7c945ad27b53c153",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "01. Kanban Board/Note Status.md"
+                "file": "10. DAILY PLANNER/2022-12-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Kanban Board/Note Status.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Kanban Board/Note Status.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Kanban Board/Note Status.md"
+                "file": "10. DAILY PLANNER/2022-12-06.md"
               }
             }
           },
@@ -175,6 +177,7 @@
   },
   "active": "7c945ad27b53c153",
   "lastOpenFiles": [
+    "01. Kanban Board/Note Status.md",
     "00. INBOX/Obsidian 확인 할 것.md",
     "10. DAILY PLANNER/The Beginner’s Guide to DATAVIEW Obsidian Plugin — 10 areas where things can go wrong and how to fix them  by Denise Todd  Medium.md",
     "10. DAILY PLANNER/2022-12-06.md",
@@ -183,7 +186,6 @@
     "Template/Template for Book Note.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
-    "10. DAILY PLANNER/2022-12-01.md",
-    "conflict-files-obsidian-git.md"
+    "10. DAILY PLANNER/2022-12-01.md"
   ]
 }
