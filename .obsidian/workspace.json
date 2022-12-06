@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md"
+                "file": "10. DAILY PLANNER/2022-12-06.md"
               }
             }
           },
@@ -141,7 +141,7 @@
       {
         "id": "a6fc43c5e1527a6c",
         "type": "tabs",
-        "dimension": 26.25,
+        "dimension": 21.634615384615387,
         "children": [
           {
             "id": "c9b2f3d8ca9793ea",
@@ -159,7 +159,7 @@
       {
         "id": "b168a9fcfa8746ee",
         "type": "tabs",
-        "dimension": 40.28846153846154,
+        "dimension": 44.90384615384615,
         "children": [
           {
             "id": "b5731c8fbea8f77b",
@@ -175,11 +175,11 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "7c945ad27b53c153",
+  "active": "bcd339960423cb36",
   "lastOpenFiles": [
-    "10. DAILY PLANNER/2022-12-01.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
+    "10. DAILY PLANNER/2022-12-01.md",
     "10. DAILY PLANNER/2022-12-06.md",
     "Template/Template for Daily Planner.md",
     "conflict-files-obsidian-git.md",
