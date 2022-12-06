@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "Template/Template for Daily Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       {
         "id": "a3f5a180e12906f1",
         "type": "tabs",
-        "dimension": 39.17948717948718,
+        "dimension": 33.46153846153846,
         "children": [
           {
             "id": "c0a09ecd474a4eb5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "Template/Template for Daily Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,20 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template for Book Note.md",
+                "file": "Template/Template for Daily Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c9b2f3d8ca9793ea",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
               }
             }
           },
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template for Book Note.md"
+                "file": "Template/Template for Daily Planner.md"
               }
             }
           },
@@ -146,12 +135,31 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a6fc43c5e1527a6c",
+        "type": "tabs",
+        "dimension": 26.25,
+        "children": [
+          {
+            "id": "c9b2f3d8ca9793ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
         ]
       },
       {
         "id": "b168a9fcfa8746ee",
         "type": "tabs",
-        "dimension": 60.820512820512825,
+        "dimension": 40.28846153846154,
         "children": [
           {
             "id": "b5731c8fbea8f77b",
@@ -167,17 +175,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "bcd339960423cb36",
+  "active": "d170cfcfaeb3fe96",
   "lastOpenFiles": [
+    "10. DAILY PLANNER/2022-12-06.md",
+    "10. DAILY PLANNER/2022-12-01.md",
+    "Template/Template for Book Note.md",
+    "Template/Template for Daily Planner.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
     "Attachment/사모펀드 제도 개편 전후 비교.jpg",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
-    "10. DAILY PLANNER/2022-12-01.md",
     "60. PROJECTS/부문 대표님 질의사항 답변.md",
-    "60. PROJECTS/부문대표님 질의사항.md",
-    "Template/Template for Daily Planner.md",
-    "Template/Template for Meeting Note.md",
-    "00. INBOX/Obsidian 확인 할 것.md"
+    "60. PROJECTS/부문대표님 질의사항.md"
   ]
 }
