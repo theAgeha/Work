@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Entry
 
-- [ ] [[Obsidian 확인 할 것]]
 
 
 ## Writing
 
+- [ ] [[Obsidian 확인 할 것]]
 
 
 ## Done

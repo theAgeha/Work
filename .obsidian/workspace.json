@@ -11,28 +11,13 @@
             "id": "7c945ad27b53c153",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "819e59b316b80381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. DAILY PLANNER/List.md",
-                "mode": "source",
-                "source": false
+                "file": "01. Kanban Board/Note Status.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/List.md",
+                "file": "01. Kanban Board/Note Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/List.md",
+                "file": "01. Kanban Board/Note Status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/List.md"
+                "file": "01. Kanban Board/Note Status.md"
               }
             }
           },
@@ -188,17 +173,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "819e59b316b80381",
+  "active": "7c945ad27b53c153",
   "lastOpenFiles": [
+    "00. INBOX/Obsidian 확인 할 것.md",
+    "10. DAILY PLANNER/The Beginner’s Guide to DATAVIEW Obsidian Plugin — 10 areas where things can go wrong and how to fix them  by Denise Todd  Medium.md",
+    "10. DAILY PLANNER/2022-12-06.md",
+    "10. DAILY PLANNER/00. List.md",
     "Template/Template for Daily Planner.md",
     "Template/Template for Book Note.md",
-    "10. DAILY PLANNER/List.md",
-    "10. DAILY PLANNER/2022-12-06.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
     "10. DAILY PLANNER/2022-12-01.md",
-    "conflict-files-obsidian-git.md",
-    "Attachment/사모펀드 제도 개편 전후 비교.jpg",
-    "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg"
+    "conflict-files-obsidian-git.md"
   ]
 }
