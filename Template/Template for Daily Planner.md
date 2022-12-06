@@ -3,12 +3,12 @@ Created: <% tp.file.creation_date("YYYY-MM-DD dddd HH:mm") %>
 Tags: dailywork
 ---
 
-# Schedule
+# <font color="#92d050">Schedule</font>
 ---
 - [ ] 
 
 
-# To-do
+# <font color="#92d050">To-do</font>
 ---
 ### Planned
 - [ ] 
@@ -16,6 +16,6 @@ Tags: dailywork
 ### Added
 - [ ] 
 
-# Note
+# <font color="#92d050">Note</font>
 ---
 - 

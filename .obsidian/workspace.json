@@ -11,28 +11,48 @@
             "id": "2373aff7b9dd8373",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "d16872154cfc272a",
+            "id": "d0f32af5e0cf0818",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d01afce8cd5ad6a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "44dad910eefc4732",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d170cfcfaeb3fe96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md",
+                "file": "10. DAILY PLANNER/2022-12-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md",
+                "file": "10. DAILY PLANNER/2022-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md",
+                "file": "10. DAILY PLANNER/2022-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-02.md"
+                "file": "10. DAILY PLANNER/2022-12-05.md"
               }
             }
           },
@@ -180,17 +200,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "d16872154cfc272a",
+  "active": "d170cfcfaeb3fe96",
   "lastOpenFiles": [
+    "10. DAILY PLANNER/2022-12-02.md",
+    "10. DAILY PLANNER/2022-12-05.md",
     "conflict-files-obsidian-git.md",
     "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
     "01. Kanban Board/Note Status.md",
     "00. INBOX/Obsidian 확인 할 것.md",
-    "10. DAILY PLANNER/2022-12-02.md",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
     "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
     "10. DAILY PLANNER/2022-12-01.md",
-    "50. MEETING/221122-하나금융투자 Meeting Agenda.md",
-    "00. INBOX/Resized_Screenshot_20221103-114137_KakaoMap.jpg.md"
+    "50. MEETING/221122-하나금융투자 Meeting Agenda.md"
   ]
 }
