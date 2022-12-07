@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8eb58d1071f7d066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. DAILY PLANNER/2022-12-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md",
+                "file": "10. DAILY PLANNER/2022-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. DAILY PLANNER/2022-12-05.md"
+                "file": "10. DAILY PLANNER/2022-12-06.md"
               }
             }
           },
@@ -167,17 +180,17 @@
     "direction": "horizontal",
     "width": 391.5
   },
-  "active": "f0a1350226eed72e",
+  "active": "8eb58d1071f7d066",
   "lastOpenFiles": [
-    "Template/Template for Daily Planner.md",
+    "10. DAILY PLANNER/The Beginner’s Guide to DATAVIEW Obsidian Plugin — 10 areas where things can go wrong and how to fix them  by Denise Todd  Medium.md",
     "Template/Template for Book Note.md",
+    "Template/Template for Daily Planner.md",
+    "10. DAILY PLANNER/2022-12-06.md",
     "conflict-files-obsidian-git.md",
     "10. DAILY PLANNER/2022-12-05.md",
     "10. DAILY PLANNER/2022-12-02.md",
     "40.  RESEARCH/221201-글로벌 기후변화 규제강화 동향 (Debriefing UN COP27)과 기업의 대응전략.md",
     "01. Kanban Board/Note Status.md",
-    "00. INBOX/Obsidian 확인 할 것.md",
-    "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
-    "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md"
+    "00. INBOX/Obsidian 확인 할 것.md"
   ]
 }

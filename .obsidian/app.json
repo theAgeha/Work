@@ -7,5 +7,9 @@
   "showFrontmatter": false,
   "foldHeading": false,
   "spellcheck": true,
-  "autoPairBrackets": true
+  "autoPairBrackets": false,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "autoPairMarkdown": false
 }

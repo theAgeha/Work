@@ -1,7 +1,7 @@
 {
   "customFolder": "Day Planners",
   "mode": 1,
-  "mermaid": false,
+  "mermaid": true,
   "notesToDates": [
     {
       "notePath": "Day Planners/Day Planner-20220715.md",
@@ -22,6 +22,10 @@
     {
       "notePath": "10. DAILY PLANNER/2022-12-05.md",
       "date": "Mon Dec 05 2022"
+    },
+    {
+      "notePath": "10. DAILY PLANNER/2022-12-06.md",
+      "date": "Wed Dec 07 2022"
     }
   ],
   "completePastItems": true,

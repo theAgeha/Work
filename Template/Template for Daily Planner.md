@@ -1,5 +1,5 @@
 ---
-Created: <% tp.file.creation_date("YYYY-MM-DD dddd HH:mm") %>
+Created: <% tp.file.creation_date("YYYY-MM-DD dddd") %>
 Tags: dailywork
 ---
 
@@ -10,12 +10,16 @@ Tags: dailywork
 
 # To-do
 ---
-### Planned
+## Planned
 - [ ] 
 
-### Added
+## Added
 - [ ] 
 
 # Note
 ---
 - 
+
+
+# Related Documents
+---
