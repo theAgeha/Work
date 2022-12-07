@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template for Daily Planner.md",
+                "file": "10. DAILY PLANNER/2022-12-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template for Daily Planner.md",
+                "file": "10. DAILY PLANNER/2022-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template for Daily Planner.md",
+                "file": "10. DAILY PLANNER/2022-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template for Daily Planner.md"
+                "file": "10. DAILY PLANNER/2022-12-05.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "f0a1350226eed72e",
   "lastOpenFiles": [
+    "Template/Template for Daily Planner.md",
     "Template/Template for Book Note.md",
     "conflict-files-obsidian-git.md",
     "10. DAILY PLANNER/2022-12-05.md",
@@ -177,7 +178,6 @@
     "01. Kanban Board/Note Status.md",
     "00. INBOX/Obsidian 확인 할 것.md",
     "Attachment/Resized_Screenshot_20221103-114137_KakaoMap.jpg",
-    "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md",
-    "10. DAILY PLANNER/2022-12-01.md"
+    "50. MEETING/221110-환경 국내 신사업 추진 전략 Workshop.md"
   ]
 }
