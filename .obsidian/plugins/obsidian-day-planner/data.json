@@ -1,7 +1,7 @@
 {
   "customFolder": "Day Planners",
   "mode": 1,
-  "mermaid": false,
+  "mermaid": true,
   "notesToDates": [
     {
       "notePath": "Day Planners/Day Planner-20220715.md",
